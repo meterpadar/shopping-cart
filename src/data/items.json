@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "benjamin",
+        "price": 9.99,
+        "imgUrl": "images/benjamin.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "brooke",
+        "price": 7.99,
+        "imgUrl": "images/brooke.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "irina",
+        "price": 11.99,
+        "imgUrl": "images/irina.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "piccinng",
+        "price": 6.99,
+        "imgUrl": "images/piccinng.jpeg"
+    }
+]
